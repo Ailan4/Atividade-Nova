@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+header{
+  background:lightpink
+}
+ul {
+  background:mediumpurple
+}
+h2{
+  background: lightpink
+}
